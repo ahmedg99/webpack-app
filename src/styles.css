@@ -1,0 +1,14 @@
+body {
+    background-color: lightblue;
+  }
+  
+  .image-container {
+    width: 300px;
+  }
+  
+  /* Importing an image */
+  .image {
+    width: 100%;
+    height: auto;
+  }
+  
